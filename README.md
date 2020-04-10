@@ -13,10 +13,10 @@
 |Problem Set - 02|Interconnect|[[Question](https://github.com/NTU-CCA/EE6601/blob/master/Problem%20Sets/Part1-ps2-Interconnect.pdf)][[Solution](https://github.com/NTU-CCA/EE6601/blob/master/Problem%20Sets/Part1-ps2-solution-Interconnect.pdf)]|Prof. [Chuan Seng Tan](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=TANCS)
 |Appendix|Revision|[[Slide](https://github.com/NTU-CCA/EE6601/blob/master/Slides/Part1-Revision-with-solution-keys.pdf)]|Prof. [Chuan Seng Tan](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=TANCS)
 |**Part 2**|
-|Lecture - 01|Fuzzy Set Theory|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-1.pdf)]|Prof. [Qing Song](https://www.ntu.edu.sg/home/eqsong/)
-|Lecture - 02|Fuzzy Arithmetic|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-2.pdf)]|Prof. [Qing Song](https://www.ntu.edu.sg/home/eqsong/)
-|Lecture - 03|Fuzzy Systems|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-3.pdf)]|Prof. [Qing Song](https://www.ntu.edu.sg/home/eqsong/)
-|Lecture - 04|Neuro-Fuzzy Linear Approximation|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-4.pdf)]|Prof. [Qing Song](https://www.ntu.edu.sg/home/eqsong/)
-|Lecture - 05|Nonlinear Fuzzy Control Systems|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-5.pdf)]|Prof. [Qing Song](https://www.ntu.edu.sg/home/eqsong/)
+|Lecture - 01|Cleaning Technology|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-1.pdf)]|Prof. [Lei Wei](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=WEI.LEI)
+|Lecture - 02|Chemical and Mechanical Polishing|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-2.pdf)]|Prof. [Lei Wei](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=WEI.LEI)
+|Lecture - 03|Metrology and Analytical Techniques|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-3.pdf)]|Prof. [Lei Wei](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=WEI.LEI)
+|Lecture - 04|Dielectrics for CMOS Technology|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-4.pdf)]|Prof. [Lei Wei](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=WEI.LEI)
+|Lecture - 05|Summary|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-5.pdf)]|Prof. [Lei Wei](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=WEI.LEI)
 
 #### Copyright © School of Electrical & Electronic Engineering, Nanyang Technological University. All rights reserved.
