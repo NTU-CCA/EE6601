@@ -18,5 +18,11 @@
 |Lecture - 03|Metrology and Analytical Techniques|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-3.pdf)]|Prof. [Lei Wei](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=WEI.LEI)
 |Lecture - 04|Dielectrics for CMOS Technology|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-4.pdf)]|Prof. [Lei Wei](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=WEI.LEI)
 |Lecture - 05|Summary|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-5.pdf)]|Prof. [Lei Wei](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=WEI.LEI)
+|**Part 3**|
+|Lecture - 01|Introduction to Semiconductor Processing|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-1.pdf)]|Prof. [Beng Kang Tay](http://eeeweba.ntu.edu.sg/BKTay/)
+|Lecture - 02|Lithography Processing|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-2.pdf)]|Prof. [Beng Kang Tay](http://eeeweba.ntu.edu.sg/BKTay/)
+|Lecture - 03|Lithography Technology|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-3.pdf)]|Prof. [Beng Kang Tay](http://eeeweba.ntu.edu.sg/BKTay/)
+|Lecture - 04|Resist Technology|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-4.pdf)]|Prof. [Beng Kang Tay](http://eeeweba.ntu.edu.sg/BKTay/)
+|Lecture - 05|Advanced Lithography|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-5.pdf)]|Prof. [Beng Kang Tay](http://eeeweba.ntu.edu.sg/BKTay/)
 
 #### Copyright © School of Electrical & Electronic Engineering, Nanyang Technological University. All rights reserved.
