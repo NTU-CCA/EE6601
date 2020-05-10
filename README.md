@@ -2,6 +2,33 @@
 |---|
 # EE6601 - Advanced Wafer Processing, Spring 2019
 
+### Learning Objective:
+
+- To study deep sub-micron front end process technology.
+- To study deep sub-micron back end process technology.
+- To study characterization techniques relevant to deep sub-micron process technology.
+
+### Comtent:
+
+Dielectrics for CMOS technology. Chemical and mechanical polishing. Lithography and resist technology. Etching process and technology. Backend interconnect technology. Cleaning technology. Process integration. Metrology and analytical techniques.
+
+### Learning Outcome:
+
+The students will be exposed to state-of-the-art advanced CMOS process technologies. They will also be exposed to future technology. They will also become more familiar with the relevant diagnostic techniques for process related issues.
+
+### Other Relative Information:
+
+- Prior knowledge required: some basic knowledge of MOSFETs and CMOS technology.
+- Level of difficulty: medium.
+- Mathematics: simple.
+
+### Textbooks:
+
+- J. D. Plummer, M. D. Deal, and P. B. Griffin “Silicon VLSI Technology: Fundamentals, Practice, and Modeling,” <i>Prentice Hall</i>, 2001.
+- C. Y. Chang and S. M. Sze, “ULSI Technology,” <i>ISBN 9780071141055</i>, 1996.
+
+### Lecture Notes:
+
 |#|Content|Lecture Note|Lecturer|
 |:---:|:---:|:---:|:---:|
 |**Part 1**|
