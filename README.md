@@ -29,8 +29,8 @@ The students will be exposed to state-of-the-art advanced CMOS process technolog
 
 ### References:
 
-- G. He and Z. Sun, “High-k Gate Dielectrics for CMOS Technology”, <i>ISBN 978-3-527-33032-4-Wiley-VCH, Weinheim</i>, 2012.
-- K. Reinhardt and W. Kern, “Handbook of Silicon Wafer Cleaning Technology, 2nd Edition", <i>ISBN-13: 978-0815515548, William Andrew</i>, 2008.
+- G. He and Z. Sun, “High-k Gate Dielectrics for CMOS Technology,” <i>ISBN 978-3-527-33032-4-Wiley-VCH, Weinheim</i>, 2012.
+- K. Reinhardt and W. Kern, “Handbook of Silicon Wafer Cleaning Technology, 2nd Edition," <i>ISBN-13: 978-0815515548, William Andrew</i>, 2008.
 - D. G. Seiler, A. C. Diebold, T. J. Shaffner, R. McDonald, S. Zollner, “Characterization and Metrology for ULSI Technology," <i>International Conference on Characterization and Metrology for ULSI Technology</i>, Austin, Texas, 2003.
 
 ### Lecture Notes:
