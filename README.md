@@ -1,4 +1,4 @@
-(NOTE: All the content was found on the Internet.)
+*(NOTE: All the content was found on the Internet.)*
 
 # EE6601 - Advanced Wafer Processing
 
